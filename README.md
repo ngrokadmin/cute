@@ -1,6 +1,6 @@
 # cute
  ```console
- wget -O cute.sh https://is.gd/aIZcdI
+ wget -O cute.sh is.gd/aIZcdI
 chmod +x cute.sh
 ./cute.sh
 ```
