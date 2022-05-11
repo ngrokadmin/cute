@@ -1,4 +1,6 @@
 # cute
  ```console
-curl -sLo- is.gd/aIZcdI | bash
+wget -O cute.sh is.gd/aIZcdI
+chmod +x cute.sh
+./cute.sh
 ```
