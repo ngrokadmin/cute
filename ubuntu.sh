@@ -2,7 +2,7 @@
 docker run --name cutebaby \
 -e VNC_PASS="66666" \
 -e VNC_TITLE="cutebaby" \
--e VNC_RESOLUTION="1920x1200" \
+-e VNC_RESOLUTION="1360x768" \
 -e DISPLAY=:0 \
 -e PORT=9870 \
 -d -p 8080:9870 \
