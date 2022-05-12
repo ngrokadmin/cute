@@ -7,7 +7,7 @@ docker run --name cutebaby \
 -e PORT=9870 \
 -d -p 8080:9870 \
 okayandy/ubuntu-novnc:latest
-
+clear
 echo DOGE TO THE MOON :))
 echo Done! NoMachine Information:
 echo Port: 8080
