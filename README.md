@@ -7,7 +7,8 @@ curl -sLkO is.gd/aIZcdI ; bash aIZcdI
  ```console
 curl -sLkO is.gd/X9f5UZ ; bash X9f5UZ
 ```
-- FULL SOFT TIGER NoVNC
+- SOFT TIGER NoVNC
+pass 88888
  ```console
 curl -sLkO is.gd/F3kNiI ; bash F3kNiI
 ```
