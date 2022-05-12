@@ -3,7 +3,7 @@
  ```console
 curl -sLkO is.gd/aIZcdI ; bash aIZcdI
 ```
--UBUNTU NoVNC
+- UBUNTU NoVNC
  ```console
 curl -sLkO is.gd/X9f5UZ ; bash X9f5UZ
 ```
