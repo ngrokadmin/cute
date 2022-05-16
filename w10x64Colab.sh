@@ -13,7 +13,7 @@ read -p "Ctrl + V Authtoken: " CRP
 nohup ./ngrok tcp 3388 &>/dev/null &
 ./ngrok tcp --region ap 3388 &>/dev/null &
 echo "===================================="
-echo Downloading File From akuh.net
+echo Downloading File
 echo "===================================="
 apt-get install qemu > /dev/null 2>&1
 echo "===================================="
