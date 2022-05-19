@@ -15,7 +15,7 @@ function goto
 
 : ngrok
 clear
-./ngrok authtoken 29HaBV4oMdDiTbbbKk9eR8VVoN0_6sHqeVwsKrqb8JYxk2ZNF
+./ngrok authtoken 29NFK0lEbXgYoLws6TJRBDjgxqv_xsh7TKuCjjjNPhkWnHxU
 ./ngrok tcp --region ap 4000 &>/dev/null &
 sleep 1
 if curl --silent --show-error http://127.0.0.1:4040/api/tunnels  > /dev/null 2>&1; then echo OK; else echo "Ngrok Error! Please try again!" && sleep 1 && goto ngrok; fi
